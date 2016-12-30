@@ -1,0 +1,4 @@
+I did not create the fonts in this directory, they are not part of the Pagoda antenna design files.
+
+The Salsa font was created by John Vargas Beltrán and is available under then Open Font License. It can be downloaded here:
+https://fonts.google.com/specimen/Salsa
