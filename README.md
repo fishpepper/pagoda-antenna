@@ -3,6 +3,8 @@
 I just took his python script and hacked together a quick and dirty 3x3 panel
 for each of the 3 files. This can be ordered using 10cm x 10cm panel services ;)
 
+DO NOT RUN THIS using python2, use python3 instead!
+
 NOTE:
 I ordered the panels on elecrow, i am still waiting for them to arrive. So right now this script is untested, use at your own risk!
 

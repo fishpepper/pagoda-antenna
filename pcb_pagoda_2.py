@@ -1,7 +1,13 @@
 # -*- coding: iso-8859-15 -*-
+from matplotlib import pylab
 from pylab import *
 import os
 import mbpcb
+import sys
+
+if (sys.version_info.major != 3):
+	print("ERROR: DO NOT USE python2, it will produce bad results")
+	sys.exit(1)
 
 #import imp
 #imp.reload(mbpcb)
