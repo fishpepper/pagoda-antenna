@@ -1,4 +1,3 @@
-# -*- coding: iso-8859-15 -*-
 from matplotlib import pylab
 from pylab import *
 import os
@@ -15,8 +14,8 @@ if (sys.version_info.major != 3):
 # for multi pcb:
 global multi_pcb_spacing
 global panel_count
-panel_count = 3
-multi_pcb_spacing = 28.0
+panel_count = 4
+multi_pcb_spacing = 24.5
 
 # simulation: balun-test-v12-l80.hfss
 
